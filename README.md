@@ -1,1 +1,1 @@
-Projeto do jogo "Pokemon" em C utilizando as estruturas básicas de Algoritmo e Estrutura de Dados
+Projeto inspirado no jogo "Pokemon" em C utilizando as estruturas básicas de Algoritmo e Estrutura de Dados.
